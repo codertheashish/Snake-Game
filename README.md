@@ -1,4 +1,4 @@
-# 🐍 Snake Game (Python Turtle + Keyboard Controls)
+# 🐍 Snake Game
 
 A classic Snake Game built using **Python Turtle Graphics** with speed selection, scoring system, food spawning, and smooth movement.
 The game is completely keyboard-controlled and includes multiple speed modes to make gameplay more fun and challenging.
