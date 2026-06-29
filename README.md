@@ -124,3 +124,6 @@ The game window opens with a blue background, snake head in center, and scoreboa
 **Ashish Kumar Prajapati**
 
 ---
+
+<img width="1672" height="941" alt="Snake_game" src="https://github.com/user-attachments/assets/1a5f63ee-51d7-48b5-9bc6-c8b8ecc4e750" />
+
