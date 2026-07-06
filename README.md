@@ -5,13 +5,13 @@ The game is completely keyboard-controlled and includes multiple speed modes to 
 
 This project includes:
 
-🎮 Arrow Key Controls
-⚡ Speed Selection (Slow → Extreme)
-🍎 Random Food Shapes & Colors
-🏆 Score + High Score System
-💥 Border & Self Collision Detection
-⏳ Smooth Real-Time Game Loop
-⛔ ESC Key → Quit Game Anytime
+🎮 Arrow Key Controls<br>
+⚡ Speed Selection (Slow → Extreme)<br>
+🍎 Random Food Shapes & Colors<br>
+🏆 Score + High Score System<br>
+💥 Border & Self Collision Detection<br>
+⏳ Smooth Real-Time Game Loop<br>
+⛔ ESC Key → Quit Game Anytime<br>
 
 ---
 
