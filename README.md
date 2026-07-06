@@ -11,7 +11,7 @@ This project includes:
 🏆 Score + High Score System<br>
 💥 Border & Self Collision Detection<br>
 ⏳ Smooth Real-Time Game Loop<br>
-⛔ ESC Key → Quit Game Anytime<br>
+⛔ ESC Key → Quit Game Anytime
 
 ---
 
