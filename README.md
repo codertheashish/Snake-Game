@@ -81,7 +81,7 @@ Choose from **5 speeds** before the game starts:
 2️⃣ Clone the project:
 
 ```bash
-https://github.com/codertheashish/Snake_Game.git
+https://github.com/codertheashish/Snake_Game
 ```
 
 3️⃣ Run the script:
