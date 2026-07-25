@@ -32,7 +32,7 @@ high_score = 0
 
 # Screen
 sc = t.Screen()
-sc.title("Snake Game by ChatGPT")
+sc.title("Snake Game by codertheashish")
 sc.bgcolor("blue")
 sc.setup(width=600, height=600)
 sc.tracer(0)
